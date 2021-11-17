@@ -833,7 +833,7 @@ section {
 }
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
 .portfolio .portfolio-item .portfolio-info .details-link:hover {
-    color: #ffc041;
+    color: #51afdb;
 }
 .portfolio .portfolio-item .portfolio-info .details-link {
     right: 10px;
@@ -983,7 +983,7 @@ section {
     transition: 0.3s;
 }
 .pricing .btn-buy:hover {
-    background: #ffc85a;
+    background: #51afdb;
 }
 .pricing .featured h3 {
     color: #fff;
@@ -1016,7 +1016,7 @@ section {
     color: #61cafb;
     border-radius: 50%;
     padding: 15px;
-    background: #fff6e4;
+    background: #afd0df;
 }
 .contact .info-box h3 {
     font-size: 20px;
@@ -1124,7 +1124,7 @@ section {
     border-radius: 5px;
 }
 .contact .php-email-form button[type="submit"]:hover {
-    background: #ffc85a;
+    background: #51afdb;
 }
 @-webkit-keyframes animate-loading {
     0% {
